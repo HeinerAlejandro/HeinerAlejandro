@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Heiner+Enis+👋;💻+Full+Stack+Developer;🐍+Python+%7C+Django+%7C+FastAPI;⚡+Clean+%26+Scalable+Code;🚀+Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:111111&height=120&section=header)
-
 ---
 
 ## 🛠️ Tech Stack 🚀
