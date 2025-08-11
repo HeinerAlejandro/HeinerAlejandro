@@ -1,6 +1,6 @@
 <!-- Encabezado animado con efecto neón y typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Heiner+Enis+👋;💻+Full+Stack+Developer;🐍+Python+%7C+Django+%7C+FastAPI;⚡+Clean+%26+Scalable+Code;🚀+Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Heiner+Enis+👋;💻+Full+Stack+Developer;🐍+Python+%7C+Django+%7C+FastAPI;⚡+Clean+%26+Scalable+Code;🚀+Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:111111&height=120&section=header)
@@ -36,29 +36,29 @@
 
 ## 📊 GitHub Stats ⚡
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HeinerEnis&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinerEnis&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HeinerAlejandro&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinerAlejandro&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 📈 Activity Graph 📅
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeinerEnis&theme=high-contrast&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeinerAlejandro&theme=high-contrast&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies 🥇
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HeinerEnis&theme=matrix&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HeinerAlejandro&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeinerEnis&theme=neon-dark" />
+  <img src="https://streak-stats.demolab.com?user=HeinerAlejandro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 📫 Contact Me 📬
 [![Email](https://img.shields.io/badge/Email-heiner.enis%40gmail.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heiner.enis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heiner_Enis-1E90FF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heiner-enis/)
-[![GitHub](https://img.shields.io/badge/GitHub-HeinerEnis-FFD700?style=for-the-badge&logo=github)](https://github.com/HeinerEnis)
+[![GitHub](https://img.shields.io/badge/GitHub-HeinerAlejandro-FFD700?style=for-the-badge&logo=github)](https://github.com/HeinerAlejandro)
 
 ---
 
